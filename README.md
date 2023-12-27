@@ -18,6 +18,6 @@ My portfolio website built using HTML, CSS, and JavaScript. You can check it out
 👤 **Dakota Rennels**
 
 * LinkedIn: [@dakotarennels](www.linkedin.com/in/dakota-rennels)
-* GitHub: [@dakotarennels]([https://github.com/dakota-rennels)
+* GitHub: [@dakotarennels](https://github.com/dakota-rennels)
 
 Resume Template by [Aras Güngöre](https://github.com/arasgungore)
