@@ -11,7 +11,6 @@ This repository was created to build out my personal GitHub portfolio. The goal 
 - **Screenshots Folder**: Contains a collection of images for the Github Repo (not the images or icons on the webpage).
 - **assets Folder**: Contains js, css, vendor, images (png, svg, and jpg) for images, backgrounds, icons, and profile pictures.
 - **forms Folder**: Contains the .php email code for the email form in the contact section of the webpage.
-- **Pages Folder**: Contains markdown pages to detail projects. These are the pages linked to the buttons on the portfolio.
 - **LICENSE File**: Contains the license and respective license statement for this repository.
 - **README File**: This file you are currently reading.
 - **index File**: This builds the main bulk of the webpage and where all content additions and modifications are made.
