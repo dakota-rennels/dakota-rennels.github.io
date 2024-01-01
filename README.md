@@ -2,7 +2,7 @@
 ## README
 
 ### Introduction
-My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://dakotarennels.github.io).
+My portfolio website built using HTML, CSS, and JavaScript. You can check it out [here](https://dakota-rennels.github.io).
 
 This repository was created to build out my personal GitHub portfolio. The goal is to maintain current and past project progression for future personal growth. This README file is to serve as a directory for the existing portfolio. Please read through and do not hesitate to copy this repository as a template for your personal use. If you are trying to navigate to the portfolio landing page, please use the following link: [https://dakota-rennels.github.io/](https://dakota-rennels.github.io/) <br><br>
 
