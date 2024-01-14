@@ -999,11 +999,14 @@
 
   <script src="assets/js/main.js"></script>
 
+  <style>
+  df-messenger {
+    z-index: 1050; /* Adjust the value as needed */
+  }
+</style>
 
   <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-  <df-messenger {
-      z-index: 1050;
-    }
+  <df-messenger 
     intent="WELCOME"
     chat-title="QnAAgent"
     agent-id="ac893b54-bf16-4142-aa21-9fccf3286366"
