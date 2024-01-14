@@ -1136,6 +1136,8 @@ section .container {
 # Chatbot style
 --------------------------------------------------------------*/
 df-messenger {
-    z-index: 10000; /* Adjust the value as needed */
+    z-index: 10000; /* Higher than the problematic element */
+    position: relative; /* Ensure it's positioned */
 }
+
 
