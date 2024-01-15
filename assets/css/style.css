@@ -236,7 +236,7 @@ svg {
 .mobile-nav {
   position: fixed;
   top: 55px;
-  right: 15px;
+  right: 150px;
   bottom: 15px;
   left: 15px;
   z-index: 8999;
