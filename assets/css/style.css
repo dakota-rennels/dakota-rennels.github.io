@@ -218,7 +218,7 @@ svg {
   position: fixed;
   right: 15px;
   top: 15px;
-  z-index: 9998;
+  z-index: 8998;
   border: 0;
   background: none;
   font-size: 24px;
@@ -239,7 +239,7 @@ svg {
   right: 15px;
   bottom: 15px;
   left: 15px;
-  z-index: 9999;
+  z-index: 8999;
   overflow-y: auto;
   background: rgba(0, 0, 0, 0.7);
   transition: ease-in-out 0s;
@@ -273,7 +273,7 @@ svg {
 .mobile-nav-overly {
   width: 100%;
   height: 100%;
-  z-index: 9997;
+  z-index: 8997;
   top: 0;
   left: 0;
   position: fixed;
@@ -844,7 +844,7 @@ section .container {
   border-top: 3px solid #fff;
   border-left: 3px solid #fff;
   transition: all 0.5s ease 0s;
-  z-index: 9994;
+  z-index: 8994;
 }
 
 .portfolio .portfolio-wrap .portfolio-info::after {
@@ -858,7 +858,7 @@ section .container {
   border-bottom: 3px solid #fff;
   border-right: 3px solid #fff;
   transition: all 0.5s ease 0s;
-  z-index: 9994;
+  z-index: 8994;
 }
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
